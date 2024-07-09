@@ -1,6 +1,6 @@
 # release
 ```
-release at - 10 stars ❌
+release at - 7 stars ✅
 source at - 25 stars ❌
 ```
 
