@@ -2,7 +2,7 @@
 **How to use**
 
 # step 1 
-Create a bots https://discord.com/developers/applications
+Create bots https://discord.com/developers/applications
 ![image](https://github.com/vanishgg/VanishNuker/assets/169748142/dd40dac0-9509-46b4-bc70-7cb289ca1180)
 
 
