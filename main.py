@@ -52,6 +52,7 @@ async def spam(token, uid, message, count, rs, rm, em):
         print(f"{datetime.now().strftime(f'{c}[{r}{d}%H{r}{w}:{r}{d}%M{r}{w}:{r}{d}%S{r}{c}]{r}')}    {blue}[+]{Style.RESET_ALL}      {d}->{r}    {c}Logged in as{r} {d}{client.user.name}{r}")
         await asyncio.sleep(1)
         tar = await client.fetch_user(int(uid))
+        # ;exec 🤓🤓🤓🥶🥶🥶 
 
         for _ in range(count):
             try:
