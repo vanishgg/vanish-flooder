@@ -1,2 +1,2 @@
 @Echo off
-vanish.exe
+python main.py
