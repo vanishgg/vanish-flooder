@@ -12,7 +12,6 @@ from datetime import datetime
 
 c = "\033[38;2;25;25;112m"
 d = "\033[1;90m"
-black = "\033[1;30m"
 red = "\033[1;31m"
 blue = "\033[1;34m"
 w = "\033[1;37m"
