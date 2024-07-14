@@ -88,6 +88,7 @@ def logo():
     print(nn)
 
 async def main():
+   os.system('title Vanish Flooder')
     cc()
     logo()
     print(f'                                               {w}Loaded:{r} {c}‹{r}{w}{tok}{r}{c}›{r} {w}tokens') 
