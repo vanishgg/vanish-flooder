@@ -1,4 +1,4 @@
-# ~~ Imports ~~ #                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             # no rat here. u thought tho i bet LMAO  ;exec type shit u thought it was a rat... lol       
+# ~~ Imports ~~ #   
 
 import discord
 import asyncio
@@ -52,7 +52,6 @@ async def spam(token, uid, message, count, rs, rm, em):
         print(f"{datetime.now().strftime(f'{c}[{r}{d}%H{r}{w}:{r}{d}%M{r}{w}:{r}{d}%S{r}{c}]{r}')}    {blue}[+]{Style.RESET_ALL}      {d}->{r}    {c}Logged in as{r} {d}{client.user.name}{r}")
         await asyncio.sleep(1)
         tar = await client.fetch_user(int(uid))
-        # ;exec 🤓🤓🤓🥶🥶🥶 
 
         for _ in range(count):
             try:
@@ -62,18 +61,20 @@ async def spam(token, uid, message, count, rs, rm, em):
 
                 if rm:
                     msg += " -> " + ' '.join(random.choices(emojis, k=em))
-        
+
                 await tar.send(msg)
                 await asyncio.sleep(0.5)
-                print(f"{datetime.now().strftime(f'{c}[{r}{d}%H{r}{w}:{r}{d}%M{r}{w}:{r}{d}%S{r}{c}]{r}')}    {blue}[+]{Style.RESET_ALL}      {d}->{r}    {c}Sent DM{r} ~ {green}{message}{r} ({d}{client.user.name}{r})")
+                print(f"{datetime.now().strftime(f'{c}[{r}{d}%H{r}{w}:{r}{d}%M{r}{w}:{r}{d}%S{r}{c}]{r}')}    {blue}[+]{Style.RESET_ALL}      {d}->{r}    {c}Sent DM{r} {red}~{r} {message} ({d}{client.user.name}{r})")
 
             except discord.Forbidden:
                 print(f"{datetime.now().strftime(f'{c}[{r}{d}%H{r}{w}:{r}{d}%M{r}{w}:{r}{d}%S{r}{c}]{r}')}  {red}[-]{Style.RESET_ALL}      {d}->{r}    {red}{tar.name} DMs are closed{r} ({d}{client.user.name}{r})")
                 continue
 
-        await client.close()
+    await client.start(token)
 
-        await client.start(token)
+
+
+
 
 def logo():
     nn = Center.XCenter(f"""
@@ -103,7 +104,7 @@ async def main():
         uid = input(Colorate.Horizontal(Colors.blue_to_white, "Vanish@cmd$~ → User Id ~ "))
         if uid == '':
             await main()
-        message = input(Colorate.Horizontal(Colors.blue_to_white, "Vanish@cmd~ → Message ~ "))
+        message = input(Colorate.Horizontal(Colors.blue_to_white, "Vanish@cmd~  → Message ~ "))
         if message == '':
             await main()
         count = int(input(Colorate.Horizontal(Colors.blue_to_white, "Vanish@cmd$~ → Amount ~ ")))
@@ -130,10 +131,3 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-
-# ~~ the end ~~ #
-####################################
-# made by virtual                  #
-# if u paid for this u got scammed #
-# no rat here check!               #
-####################################                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        # dw no rat!
