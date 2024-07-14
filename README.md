@@ -1,3 +1,6 @@
+# ~~ updates? ~~
+**I probably will stop updating this since its now open source, if your gonna fork this, (or use as a base) // or add more shit to this please give credit to us in your repo or directly fork it, and dm me about it first. or i will call you out.**
+
 # ~~ Vanish flooder ~~
 a fast discord dm flooder / spammer
 
