@@ -1,13 +1,13 @@
-# vanish-flooder
+# ~~ Vanish flooder ~~
 a fast discord dm flooder / spammer
 
-# WARNING 
+# ~~ WARNING ~~
 **⚠️ Only download vanish from this github repo. unless we say we have another method for downloading. do not download from any discord server. only this github repo. or else you might get ratted or grabbed**
 
-# Disclaimer
+# ~~ Disclaimer ~~
 **THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS IS YOUR FAULT/PROBLEM**
 
-# requirements
+# ~~ requirements ~~
 **this tool requires bot tokens (<https://discord.com/developers/applications>)**
 
 **must be on a pc / laptop**
@@ -16,7 +16,7 @@ a fast discord dm flooder / spammer
 
 **read tutorial.md for help / how to**
 
-# Goals
+# ~~ Goals ~~
 ```
 release at - 7 stars ✅
 source at - 25 stars ✅
@@ -24,7 +24,7 @@ v2 at - 50 stars ❌
 full recode at - 75 stars ❌
 ```
 
-# Changes
+# ~~ Changes ~~
 ```
 - added new ui colors
 - made it open source
