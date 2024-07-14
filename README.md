@@ -16,8 +16,23 @@ a fast discord dm flooder / spammer
 
 **read tutorial.md for help / how to**
 
-# release
+# Goals
 ```
 release at - 7 stars ✅
 source at - 25 stars ✅
+v2 at - 50 stars ❌
+full recode at - 75 stars ❌
 ```
+
+# Changes
+```
+- added new ui colors
+- made it open source
+```
+
+# ~~ links ~~
+Website: https://vanishnet.netlify.app/
+
+Discord: https://discord.gg/Mv4YQAK8F2
+
+Youtube: https://www.youtube.com/@bugged.
