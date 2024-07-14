@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/fbcdc118-d040-4184-8033-ad9265ec8907)
 # ~~ updates? ~~
 **I probably will stop updating this since its now open source, if your gonna fork this, (or use as a base) // or add more shit to this please give credit to us in your repo or directly fork it, and dm me about it first. or i will call you out.**
 
