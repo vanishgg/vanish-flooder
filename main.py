@@ -128,7 +128,6 @@ async def main():
         exit()
 
 if __name__ == "__main__":
-    cc()
     asyncio.run(main())
 
 # ~~ the end ~~ #
