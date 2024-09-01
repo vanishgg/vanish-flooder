@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/vanishgg/vanish-recode">
-    <img src="https://i.postimg.cc/282DLwSX/image-63.webp" alt="Logo" width="100" height="100">
+    <img src="https://i.ibb.co/G9ctsGQ/nigga.png" alt="Logo" width="100" height="100">
   </a>
   <h3 align="center">Vanish Flooder</h3>
   <p align="center">
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/github/stars/vanishgg/vanish-flooder" alt="Stars">
   <img src="https://img.shields.io/github/forks/vanishgg/vanish-flooder" alt="Forks">
 </p>
-<p><img src="https://i.ibb.co/rvDTKSt/nigga.png" alt="Preview"></p>
+<p><img src="https://i.postimg.cc/282DLwSX/image-63.webp" alt="Preview"></p>
 
 <h2 id="about">About Vanish Flooder</h2>
 <p>Vanish flooder is a tool to flood your friends dms.</p>
