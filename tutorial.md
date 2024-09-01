@@ -15,9 +15,10 @@ invite the bots with admin perms.
 
 # step 4
 reset bots token and copy.
-put tokens in tokens.txt in this format:
+put tokens in tokens.txt in this format: (1 new line = new tkn
 ```
 token
 token
 ```
-Run vanish.exe or start.bat (run install.bat first to install everything needed)
+Run main.py or start.bat (run install.bat first to install everything needed)
+run main.exe if you dont wanna install python 
