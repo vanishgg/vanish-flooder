@@ -43,7 +43,7 @@
 <ul>
   <li>Website: <a href="https://vanishnet.netlify.app/">https://vanishnet.netlify.app/</a></li>
   <li>Discord: <a href="https://discord.gg/Mv4YQAK8F2">https://discord.gg/Mv4YQAK8F2</a></li>
-  <li>YouTube: <a href="https://www.youtube.com/@kqfo">https://www.youtube.com/@bugged</a></li>
+  <li>YouTube: <a href="https://www.youtube.com/@kqfo">https://www.youtube.com/@kqfo</a></li>
 </ul>
 
 
